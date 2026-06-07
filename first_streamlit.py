@@ -5,3 +5,4 @@ st.set_page_config(page_title='my first web', page_icon='guardsman', menu_items=
     'Report a bug': None,
     'About': None
 })
+st.title('my first web')
