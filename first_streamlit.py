@@ -1,3 +1,6 @@
 import streamlit as st
 
-st.title('my first web')
+st.set_page_config(page_title='my first web', page_icon='guardsman', menu_items={
+    'Get Help': None,
+    'Report a bug': None,
+    'About': None
